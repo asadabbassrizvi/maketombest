@@ -1,0 +1,20 @@
+.App {
+  width: 100% !important;
+}
+svg{
+  width: 2.5rem;
+  height: 2.5rem;
+  --tw-text-opacity: 1;
+  color: rgba(185,146,74,var(--tw-text-opacity));
+}
+svg:hover{
+  cursor: pointer;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.logo{
+  padding:24px
+}
