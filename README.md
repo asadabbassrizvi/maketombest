@@ -1,6 +1,4 @@
-# Paid assessment by sigma digital
-
-#Unfortunately not accepted :-
+# Paid project by sigma digital software industry Islamabad Pakistan
 
 # Getting Started with Create React App
 
